@@ -11,7 +11,7 @@ If you set the parameter ```INSTALL_NGINX``` to ```True``` you should also confi
 
 ##### 1. Download the script:
 ```
-sudo wget https://raw.githubusercontent.com/Yenthe666/InstallScript/13.0/odoo_install.sh
+sudo wget https://raw.githubusercontent.com/rapidgrps/backup_install_072020/master/eagle1349_install.sh
 ```
 ##### 2. Modify the parameters as you wish.
 There are a few things you can configure, this is the most used list:<br/>
@@ -32,11 +32,11 @@ There are a few things you can configure, this is the most used list:<br/>
 
 #### 3. Make the script executable
 ```
-sudo chmod +x odoo_install.sh
+sudo chmod +x eagle1349_install.sh
 ```
 ##### 4. Execute the script:
 ```
-sudo ./odoo_install.sh
+sudo ./eagle1349_install.sh
 ```
 
 ## Where should I host Odoo?
