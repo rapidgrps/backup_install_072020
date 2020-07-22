@@ -11,7 +11,7 @@ If you set the parameter ```INSTALL_NGINX``` to ```True``` you should also confi
 
 ##### 1. Download the script:
 ```
-sudo wget https://raw.githubusercontent.com/rapidgrps/backup_install_072020/master/eagle1349_install.sh
+sudo wget https://raw.githubusercontent.com/rapidgrps/backup_install_072020/1349/eagle1349_install.sh
 ```
 ##### 2. Modify the parameters as you wish.
 There are a few things you can configure, this is the most used list:<br/>
